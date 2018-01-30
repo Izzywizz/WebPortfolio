@@ -12,6 +12,10 @@ body {
   font-size: 12px;
 }
 
+a span {
+  color: #E08DAC
+}
+
 p span {
 	color: #E08DAC
 }
